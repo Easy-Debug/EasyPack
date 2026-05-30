@@ -10,7 +10,7 @@ EasyPack 是一款面向 Windows 的本地可执行文件压缩工具：拖入 .
 
 
 ## 授权获取
-关注公众号《不懂安全的吗喽》，后台发送EasyPack，每天晚上21点统一发放授权。
+关注公众号《不懂安全的吗喽》，后台发送EasyPack+运行exe后的机器码文字，每天晚上21点统一发放授权。
 
 觉得好用的可以github点个star：https://github\.com/Easy-Debug，目前还只是初版，有bug或者建议可以提交issue或者公众号私发。
 
